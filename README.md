@@ -1,5 +1,11 @@
-Software Consultant
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sean-lawton-6a03a7b3/" target="blank"><img align="left" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="seanplawton" height="30" width="40" /></a>
-</p>
+# Hi, I'm Sean 👋
+
+Senior Software Engineer building scalable enterprise applications with a focus on cloud-native SaaS and AI integration. 
+
+## 👥 Let's Connect!
+
+Follow me for cloud-native development insights and enterprise architecture best practices.
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sean-lawton-6a03a7b3/)
