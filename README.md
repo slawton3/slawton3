@@ -1,6 +1,6 @@
 # Hi, I'm Sean 👋
 
-Senior Consultant building scalable enterprise applications with a focus on cloud-native SaaS and AI enabled apps. 
+Senior Consultant building scalable enterprise applications with a focus on cloud-native SaaS and AI enabled apps.
 
 ## 👥 Let's Connect!
 
