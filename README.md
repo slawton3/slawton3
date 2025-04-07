@@ -1,6 +1,6 @@
 # Hi, I'm Sean 👋
 
-Senior Consultant building scalable enterprise applications with a focus on cloud-native SaaS and AI enabled apps.
+Experienced Senior Software Engineer with a proven track record in developing custom business solutions at a leading Microsoft partner software consultancy. I specialize in enterprise SaaS and delivering robust, scalable web-based applications to our clients.
 
 ## 👥 Let's Connect!
 
