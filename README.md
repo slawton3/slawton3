@@ -4,7 +4,7 @@ Experienced Senior Software Engineer with a proven track record in developing cu
 
 ## 👥 Let's Connect!
 
-Follow me for cloud-native software engineering insights and enterprise architecture best practices.
+Follow me for software engineering insights and enterprise architecture best practices.
 
 ## 📫 Connect
 
