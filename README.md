@@ -4,10 +4,8 @@ Experienced Senior Software Engineer with a proven track record in developing cu
 
 Always learning 🤙
 
-## 💡 Speak with me
+## 💡 Talk to me
 [Chat with Sean](https://calendly.com/sean-witharrow/time-with-sean)
 
-
 ## 📫 Connect with me
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sean-lawton-6a03a7b3/)
