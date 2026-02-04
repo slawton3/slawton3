@@ -4,8 +4,8 @@ Experienced technologist/engineer with a proven track record in developing custo
 
 Always learning 🤙
 
-## 💡 Talk to me
-[Chat with Sean](https://calendly.com/sean-witharrow/time-with-sean)
+## Talk to me
+[Chat with Sean](https://cal.com/sean-lawton-25so4h/30min)
 
-## 📫 Connect with me
+## Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sean-lawton-6a03a7b3/)
